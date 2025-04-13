@@ -15,8 +15,8 @@
 
 ## 📊 GitHub 统计
 
-[![Alex的GitHub统计](https://github-readme-stats.vercel.app/api?username=uxiaosu&show_icons=true&theme=light)](https://github.com/alexchen)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uxiaosu&layout=compact&theme=light)](https://github.com/alexchen)
+[![Alex的GitHub统计](https://github-readme-stats.vercel.app/api?username=uxiaosu&show_icons=true&theme=5)](https://github.com/alexchen)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uxiaosu&layout=compact&theme=light&langs_count=5)](https://github.com/uxiaosu)
 
 ## 🌱 最近在学习
 
