@@ -28,9 +28,9 @@
 - **MMCC**: [Visit](https://yourcompany.com)  
 - **NAVF**: [Visit](https://yourcompany.com)
 
-## 🌐 From NAVF (New Era)
+## 🌐 From NAVF (新世家)
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg" width="20" height="13" alt="Flag of China"> **2022.09** Joined New Era (China)  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg" width="20" height="13" alt="EU Flag"> **2025.01** Joined NAVF (New Era) Open Research Library
+- <img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg" width="20" height="13" alt="EU Flag"> **2025.01** Joined NAVF (新世家) Open Research Library
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=uxiaosu&theme=green)](https://github.com/ashutosh00710/github-readme-activity-graph)
