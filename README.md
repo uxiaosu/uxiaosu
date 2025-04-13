@@ -5,16 +5,12 @@
 ## 🛠 技术栈
 
 **语言:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 
 ## 📊 GitHub 统计
 
-[![GitHub 统计](https://github-readme-stats.vercel.app/api?username=uxiaosu&show_icons=true&theme=dark)](https://github.com/uxiaosu)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uxiaosu&layout=compact&theme=dark&langs_count=5)](https://github.com/uxiaosu)
+[![GitHub 统计](https://github-readme-stats.vercel.app/api?username=uxiaosu&show_icons=true&theme=default)](https://github.com/uxiaosu)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uxiaosu&layout=compact&theme=default&langs_count=5)](https://github.com/uxiaosu)
 
 ## 🌱 最近项目
 
@@ -39,6 +35,6 @@
 
 ## 📚 其他库
 
-- [![拥抱脸](https://img.shields.io/badge/-HuggingFace-FF6600?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/yourprofile)  
+- [![HuggingFace](https://img.shields.io/badge/-HuggingFace-FF6600?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/yourprofile)  
 - [![arXiv 预印本](https://img.shields.io/badge/-arXiv-232323?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/yourprofile)  
 - [![Zenodo](https://img.shields.io/badge/-Zenodo-232323?style=flat-square&logo=zenodo&logoColor=white)](https://zenodo.org/yourprofile)  
