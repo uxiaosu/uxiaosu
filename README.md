@@ -4,7 +4,7 @@
 
 | 🔭 Full-Stack Developer | 🏆 Open Source Contributor | ☁️ Cloud Technology Enthusiast |
 
-[![HuggingFace](https://img.shields.io/badge/-HuggingFace-FF6600?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/yourprofile) [![arXiv Preprints](https://img.shields.io/badge/-arXiv-232323?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/yourprofile) [![Zenodo](https://img.shields.io/badge/-Zenodo-232323?style=flat-square&logo=zenodo&logoColor=white)](https://zenodo.org/yourprofile)
+[![HuggingFace](https://img.shields.io/badge/-HuggingFace-FF6600?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/Uoomi-ai) [![arXiv Preprints](https://img.shields.io/badge/-arXiv-232323?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/yourprofile) [![Zenodo](https://img.shields.io/badge/-Zenodo-232323?style=flat-square&logo=zenodo&logoColor=white)](https://zenodo.org/communities/nvaf/records?q=&l=list&p=1&s=10&sort=newest)
 ## 🛠 Tech Stack
 
 **Languages:**  
