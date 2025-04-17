@@ -12,13 +12,14 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uxiaosu&show_icons=true&theme=)](https://github.com/uxiaosu) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uxiaosu&layout=compact&theme=&langs_count=5)](https://github.com/uxiaosu)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uxiaosu&show_icons=true&theme=&langs_count=10)](https://github.com/uxiaosu) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uxiaosu&layout=compact&theme=&langs_count=10)](https://github.com/uxiaosu)
 
 ## 🌱 Recent Projects
 
 - Rust Native Window Framework: **simpleUI**  
 - Uoomi Student Model  
 - Pure JS Web Frontend Framework: **simpleJS**
+- - Pure JS Web Frontend Framework: **simplePHP**
 
 ## 📫 Contact Me
 
