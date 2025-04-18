@@ -1,6 +1,7 @@
 ## I am uxiaosu 💻
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Scienceknows+no+bounds.+科学永无止境;Full-Stack+Developer&width=400&height=40&color=007BFF&speed=40&loop=true)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 
 | 🔭 Full-Stack Developer | 🏆 Open Source Contributor | ☁️ Cloud Technology Enthusiast |
 
