@@ -14,21 +14,9 @@
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uxiaosu&show_icons=true&theme=&langs_count=0  )](https://github.com/uxiaosu  ) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uxiaosu&layout=compact&theme=&langs_count=200  )](https://github.com/uxiaosu  )
 
-## 🌱 Recent Projects
-
-- Rust Native Window Framework: **simpleUI**  
-- Uoomi Student Model  
-- Pure JS Web Frontend Framework: **simpleJS**
-- - Pure JS Web Frontend Framework: **simplePHP**
-
 ## 📫 Contact Me
 
  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white  )](mailto:luxiaosu@foxmail.com)  [![Bilibili](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white  )](https://space.bilibili.com/1504380151?spm_id_from=333.337.0.0  )
-
-## 🌐 My Companies
-
-- **MMCC**: [Visit](https://yourcompany.com  )  
-- **NAVF**: [Visit](https://yourcompany.com  )
 
 ## 🌐 From NAVF (新世家)
 
