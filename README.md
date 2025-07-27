@@ -4,7 +4,7 @@
 
 | 🔭 Full-Stack Developer |
 
-[![HuggingFace](https://img.shields.io/badge/-HuggingFace-FF6600?style=flat-square&logo=huggingface&logoColor=white  )](https://huggingface.co/Uoomi-ai  ) [![arXiv Preprints](https://img.shields.io/badge/-arXiv-232323?style=flat-square&logo=arxiv&logoColor=white  )](https://arxiv.org/yourprofile  ) [![Zenodo](https://img.shields.io/badge/-Zenodo-232323?style=flat-square&logo=zenodo&logoColor=white  )](https://zenodo.org/communities/nvaf/records?q=&l=list&p=1&s=10&sort=newest  ) [![Company Website](https://img.shields.io/badge/-Company%20Website-2E8B57?style=flat-square&logo=internet-explorer&logoColor=white)](https://www.tensorlinx.online/)
+[![HuggingFace](https://img.shields.io/badge/-HuggingFace-FF6600?style=flat-square&logo=huggingface&logoColor=white  )](https://huggingface.co/Uoomi-ai  ) [![arXiv Preprints](https://img.shields.io/badge/-arXiv-232323?style=flat-square&logo=arxiv&logoColor=white  )](https://arxiv.org/yourprofile  ) [![Zenodo](https://img.shields.io/badge/-Zenodo-232323?style=flat-square&logo=zenodo&logoColor=white  )](https://zenodo.org/communities/nvaf/records?q=&l=list&p=1&s=10&sort=newest  ) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4385FE?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=k_S9Hx4AAAAJ)[![Company Website](https://img.shields.io/badge/-Company%20Website-2E8B57?style=flat-square&logo=internet-explorer&logoColor=white)](https://www.tensorlinx.online/)
 ## 🛠 Tech Stack
 
 **Languages:**  
