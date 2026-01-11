@@ -16,9 +16,4 @@
 
  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white  )](mailto:luxiaosu@foxmail.com)  [![Bilibili](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white  )](https://space.bilibili.com/1504380151?spm_id_from=333.337.0.0  )
 
-## 🌐 From NAVF (新世家)
 
-- <img src="https://www.gov.cn/xinwen/2021-01/01/W020220405465362098561.jpg" width="40" height="13" alt="Flag of China"> **2022.09** Joined NAVF (China)  
-- <img src="https://flagpedia.asia/data/org/vector/eu.svg" width="20" height="13" alt="EUFlag"> **2025.01** Joined NAVF (新世家) Open Research Library
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=uxiaosu&theme=green  )](https://github.com/ashutosh00710/github-readme-activity-graph  )
