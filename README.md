@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Scienceknows+no+bounds.+科学永无止境;Long-live-science!+科学万岁！&width=400&height=40&color=007BFF&speed=40&loop=true)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Scienceknows+no+bounds.+科学永无止境;Long+live+science!+科学万岁！&width=400&height=40&color=007BFF&speed=40&loop=true)
 
 | 🔭 Full-Stack Developer |
 
