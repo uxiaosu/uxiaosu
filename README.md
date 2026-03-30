@@ -8,12 +8,8 @@
 **Languages:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white  ) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black  ) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white  ) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white  ) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white  ) ![C++](https://img.shields.io/badge/C%2B%2B-00599C.svg?logo=c%2B%2B&logoColor=white  )
 
-## 📊 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uxiaosu&show_icons=true&theme=&langs_count=0  )](https://github.com/uxiaosu  ) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uxiaosu&layout=compact&theme=&langs_count=200  )](https://github.com/uxiaosu  )
-
 ## 📫 Contact Me
 
- [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white  )](mailto:luxiaosu@foxmail.com)  [![Bilibili](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white  )](https://space.bilibili.com/1504380151?spm_id_from=333.337.0.0  )
+ [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white  )](mailto:wuxiang@tensorlinx.cn)  [![Bilibili](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white  )](https://space.bilibili.com/1504380151?spm_id_from=333.337.0.0  )
 
 
